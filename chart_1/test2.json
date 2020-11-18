@@ -1,0 +1,50 @@
+[{
+    "case": 1,
+    "candidate": "Booker",
+    "negative": 372,
+    "positive": 426,
+    "polarity": 54,
+    "percent_positive": 53.38345865
+}, {
+    "case": 2,
+    "candidate": "Gillibrand",
+    "negative": 571,
+    "positive": 413,
+    "polarity": -158,
+    "percent_positive": 41.97154472
+}, {
+    "case": 3,
+    "candidate": "Harris",
+    "negative": 549,
+    "positive": 462,
+    "polarity": -87,
+    "percent_positive": 45.69732938
+}, {
+    "case": 4,
+    "candidate": "Klobuchar",
+    "negative": 477,
+    "positive": 411,
+    "polarity": -66,
+    "percent_positive": 46.28378378
+}, {
+    "case": 5,
+    "candidate": "O'Rourke",
+    "negative": 238,
+    "positive": 270,
+    "polarity": 32,
+    "percent_positive": 53.1496063
+}, {
+    "case": 6,
+    "candidate": "Sanders",
+    "negative": 569,
+    "positive": 681,
+    "polarity": 112,
+    "percent_positive": 54.48
+}, {
+    "case": 7,
+    "candidate": "Warren",
+    "negative": 432,
+    "positive": 428,
+    "polarity": -4,
+    "percent_positive": 49.76744186
+}]

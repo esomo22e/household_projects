@@ -1,0 +1,800 @@
+[{
+    "_id" : {
+        "SERIAL" : 610643
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 1,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610644
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3302
+    },
+    "childrenCount" : 2,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610666
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610693
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610710
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3301
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610710
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3301
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610720
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610723
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3304
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610727
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3305
+    },
+    "childrenCount" : 1,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610727
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3305
+    },
+    "childrenCount" : 1,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610761
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610786
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3301
+    },
+    "childrenCount" : 1,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610805
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 1,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610874
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3302
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610887
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3305
+    },
+    "childrenCount" : 1,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610929
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3302
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610947
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3301
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610956
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3305
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 610993
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3302
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611060
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611078
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611086
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3302
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611091
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3304
+    },
+    "childrenCount" : 4,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611096
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3301
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611105
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3301
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611105
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3301
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611115
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3305
+    },
+    "childrenCount" : 3,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611175
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3302
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611184
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3304
+    },
+    "childrenCount" : 4,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611215
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3305
+    },
+    "childrenCount" : 1,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611217
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 2,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611240
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3301
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611246
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3304
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611246
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3304
+    },
+    "childrenCount" : 1,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611268
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3302
+    },
+    "childrenCount" : 2,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611294
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3304
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611294
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3304
+    },
+    "childrenCount" : 2,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611311
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 2,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611332
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3302
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611335
+    },
+    "HHTYPE" : 2,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611345
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 1,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611374
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3305
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611394
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3301
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611396
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3302
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611403
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3302
+    },
+    "childrenCount" : 2,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611443
+    },
+    "HHTYPE" : 9,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3303
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611519
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3305
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611535
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3305
+    },
+    "childrenCount" : 0,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611563
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3302
+    },
+    "childrenCount" : 2,
+    "coupleCount" : 2
+},
+{
+    "_id" : {
+        "SERIAL" : 611610
+    },
+    "HHTYPE" : 1,
+    "geo" : {
+        "REGION" : 11,
+        "STATEFIP" : 25,
+        "STATEFICP" : 3,
+        "COUNTYICP" : 250,
+        "CITY" : 810,
+        "PUMA" : 3305
+    },
+    "childrenCount" : 1,
+    "coupleCount" : 2
+}]

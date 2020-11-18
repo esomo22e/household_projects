@@ -1,0 +1,21 @@
+#chart{
+    width: 100vw;
+    height: 100vh;
+    /* background: salmon; */
+    margin: 0;
+}
+
+body {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
